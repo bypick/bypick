@@ -1,8 +1,8 @@
-# 💫 About Me:
+#  About Me:
 "Hello, I’m Pick , a security researcher specializing in penetration testing and vulnerability identification. I have extensive experience in analyzing systems and applications to uncover vulnerabilities and report them responsibly and professionally. My goal is to enhance digital security for companies and institutions by identifying risks and helping to protect users. I’m excited to work with HackerOne and contribute my best in finding vulnerabilities to help companies improve their security."
 
 
-## 🌐 Socials:
+##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/byt) 
 
 # 💻 Tech Stack:
